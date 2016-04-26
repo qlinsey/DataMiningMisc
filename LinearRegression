@@ -1,0 +1,4 @@
+1. Linear regression: ( Error Meassurement)
+Minimum sum of squared Error (SSE) 
+Root-Mean-Squared-Error(RMSE)=(SSE/N)^(1/2)
+R Sqaured: 1-(SSE/SST) SST is base line error
